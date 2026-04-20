@@ -1,7 +1,5 @@
 package multiThreadingClass;
 
-import java.util.Set;
-
 public class ThreadTester {
 
 
